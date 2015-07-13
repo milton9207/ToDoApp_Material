@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+
+
+    </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+    </style>
+
+    <style name="MyCustomToolBarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+
+    </style>
+
+</resources>
